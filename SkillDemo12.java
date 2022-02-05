@@ -1,3 +1,7 @@
+
 public class SkillDemo12 {
-  // Let's do this! 
+  
+  public static int add(int j, int k) {
+    return j+k;
+  }
 }
